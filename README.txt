@@ -6,3 +6,9 @@ ClearFonts - Age of Conan
   Arial and antialiased.
 
 Damage Font: Sony Sketch EF - http://www.dafont.com/sony-sketch-ef.font
+
+==Install Instructions==
+ * Download and extract to your Age of Conan install directory:
+   - C:\Program Files\Funcom\Age of Conan\Data\Gui\
+   - If prompted to replace something, do so.
+   - You must restart the game for new fonts to be recognized.
